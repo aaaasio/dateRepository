@@ -18,3 +18,4 @@
 [https://www.youtube.com/watch?v=Ofq11cvq_v4](https://youtu.be/ftHlTSurTfo)
 
 ## Code
+[소스 코드 보기](.aasf/main.py)
