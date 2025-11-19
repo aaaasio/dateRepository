@@ -15,4 +15,7 @@
 인구 예측 데이터로 향후 몇 년간의 한국 인구 변화를 예측합니다.
 
 ## 📹 Demo Video
-[▶️ 영상 보기](Movie003.mp4)
+<video src="Movie003.mp4" 
+       controls 
+       width="600">
+</video>
