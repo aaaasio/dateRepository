@@ -14,5 +14,5 @@
 시계열 데이터 시각화하여 연도별 인구 변화, 성별 및 연령대별 인구 수를 시각화하여 추세를 파악합니다.
 인구 예측 데이터로 향후 몇 년간의 한국 인구 변화를 예측합니다.
 
-## 🎬 Demo Video
+## Video
 [https://www.youtube.com/watch?v=Ofq11cvq_v4](https://youtu.be/ftHlTSurTfo)
