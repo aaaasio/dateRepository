@@ -17,6 +17,9 @@
 ## Video
 [https://www.youtube.com/watch?v=Ofq11cvq_v4](https://youtu.be/ftHlTSurTfo)
 
+## 팀
+정윤성
+
 ## Code
 [소스 코드 보기](./asdf/we.py)
 
